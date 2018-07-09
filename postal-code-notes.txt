@@ -1,0 +1,22 @@
+List of FSAs that are in the 2011 Census data, but not in fsa_area_2006.csv
+
+B6L - Truro, NS (minus downtown) (suburban)
+E3G - N of Fredericton, NB (suburban)
+G3B - Lac-Beauport, QC (rural)
+G3C - Stoneham-et-Tewkesbury, QC (rural)
+G3N - Fossambault-sur-le-Lac, QC (rural)
+G7T - outside Jonquiere, QC (suburban)
+H4Z - Square-Victoria N of rue St.-Antoine, Montreal (population zero in 2011 census) (urban)
+H5A - Place Bonaventure, Montreal (population zero in 2011 census) (urban)
+J7W - Pincourt, QC (suburban)
+L9J - outside Barrie, ON (suburban)
+N8V - airport in Windsor, ON (population zero in 2011 census) (suburban)
+P7L - outside Thunder Bay, ON (rural)
+S4W - airport in Regina, SK (suburban)
+S6W - outside Prince Albert, SK (suburban)
+T3S - outside Calgary, AB (suburban)
+T8T - outside Edmonton, AB (suburban)
+V7Y - Pacific Centre, Vancouver (population zero in 2011 census) (urban)
+V9Z - Sooke, BC (suburban)
+
+
